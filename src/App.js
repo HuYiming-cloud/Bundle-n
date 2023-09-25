@@ -7,14 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+        I am HuYiming, this is my bundle N work.
+        </p>   
+        <p>
         Hello world!
         </p>
         <p>
         I am HuYiming, this is my bundle N work.
         </p>        
-        <p>
-        I am HuYiming, this is my bundle N work.
-        </p>   
+
       </header>
     </div>
   );
